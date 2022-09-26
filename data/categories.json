@@ -2,15 +2,15 @@
     "categories": [
         {
             "id": 1,
-            "nama": "Semua Makanan"
+            "nama": "Semua"
         },
         {
             "id": 2,
-            "nama": "Makanan"
+            "nama": "Coffe"
         },
         {
             "id": 3,
-            "nama": "Minuman"
+            "nama": "Juice"
         },
         {
             "id": 4,
