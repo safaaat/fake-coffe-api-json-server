@@ -2,58 +2,58 @@
   {
     "id": 1,
     "kode": "K-01",
-    "nama": "Sate Ayam",
-    "harga": 16000,
+    "nama": "americano",
+    "harga": 26000,
     "is_ready": true,
-    "gambar": "sate-ayam.jpg",
+    "gambar": "coffe-americano.png",
     "category": {
       "id": 1,
-      "nama": "Makanan"
+      "nama": "Coffe"
     }
   },
   {
     "id": 2,
     "kode": "K-02",
-    "nama": "Nasi Goreng Telur",
-    "harga": 14000,
+    "nama": "cafe au lait",
+    "harga": 30000,
     "is_ready": true,
-    "gambar": "nasi-goreng-telor.jpg",
+    "gambar": "coffe-cafe-au-lait.png",
     "category": {
       "id": 1,
-      "nama": "Makanan"
+      "nama": "Coffe"
     }
   },
   {
     "id": 3,
     "kode": "K-03",
-    "nama": "Nasi Rames",
-    "harga": 12000,
+    "nama": "cappuccino",
+    "harga": 32000,
     "is_ready": true,
-    "gambar": "nasi-rames.jpg",
+    "gambar": "coffe-cappuccino.png",
     "category": {
       "id": 1,
-      "nama": "Makanan"
+      "nama": "Coffe"
     }
   },
   {
     "id": 4,
     "kode": "K-04",
-    "nama": "Lontong Opor Ayam",
-    "harga": 18000,
+    "nama": "cappuccino cream",
+    "harga": 36000,
     "is_ready": true,
-    "gambar": "lontong-opor-ayam.jpg",
+    "gambar": "coffe-cappuccino-cream.png",
     "category": {
       "id": 1,
-      "nama": "Makanan"
+      "nama": "Coffe"
     }
   },
   {
     "id": 5,
     "kode": "K-05",
-    "nama": "Mie Goreng",
+    "nama": "espresso",
     "harga": 13000,
     "is_ready": true,
-    "gambar": "mie-goreng.jpg",
+    "gambar": "coffe-espresso.png",
     "category": {
       "id": 1,
       "nama": "Makanan"
@@ -62,46 +62,46 @@
   {
     "id": 6,
     "kode": "K-06",
-    "nama": "Bakso",
-    "harga": 10000,
+    "nama": "coffe latte",
+    "harga": 31000,
     "is_ready": true,
-    "gambar": "bakso.jpg",
+    "gambar": "coffe-latte.png",
     "category": {
       "id": 1,
-      "nama": "Makanan"
+      "nama": "Coffe"
     }
   },
   {
     "id": 7,
     "kode": "K-07",
-    "nama": "Mie Ayam Bakso",
-    "harga": 14000,
+    "nama": "macchiato",
+    "harga": 22000,
     "is_ready": true,
-    "gambar": "mie-ayam-bakso.jpg",
+    "gambar": "coffe-macchiato.png",
     "category": {
       "id": 1,
-      "nama": "Makanan"
+      "nama": "Coffe"
     }
   },
   {
     "id": 8,
     "kode": "K-08",
-    "nama": "Pangsit 6 pcs",
+    "nama": "mocca",
     "harga": 5000,
     "is_ready": true,
-    "gambar": "pangsit.jpg",
+    "gambar": "coffe-mocca.png",
     "category": {
       "id": 3,
-      "nama": "Cemilan"
+      "nama": "Coffe"
     }
   },
   {
     "id": 9,
     "kode": "K-09",
-    "nama": "Kentang Goreng",
-    "harga": 5000,
+    "nama": "chocolate toast",
+    "harga": 8000,
     "is_ready": true,
-    "gambar": "kentang-goreng.jpg",
+    "gambar": "chocolate-toast.png",
     "category": {
       "id": 3,
       "nama": "Cemilan"
@@ -110,10 +110,10 @@
   {
     "id": 10,
     "kode": "K-010",
-    "nama": "Cheese Burger",
-    "harga": 15000,
+    "nama": "french fries",
+    "harga": 6000,
     "is_ready": true,
-    "gambar": "cheese-burger.jpg",
+    "gambar": "french-fries.png",
     "category": {
       "id": 3,
       "nama": "Cemilan"
@@ -122,34 +122,34 @@
   {
     "id": 11,
     "kode": "K-011",
-    "nama": "Coffe Late",
-    "harga": 15000,
+    "nama": "pasta",
+    "harga": 20000,
     "is_ready": true,
-    "gambar": "coffe-late.jpg",
+    "gambar": "pasta.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Makanan"
     }
   },
   {
     "id": 12,
     "kode": "K-012",
-    "nama": "Es Jeruk",
+    "nama": "wafel",
     "harga": 7000,
     "is_ready": true,
-    "gambar": "es-jeruk.jpg",
+    "gambar": "wafel.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Cemilan"
     }
   },
   {
     "id": 13,
     "kode": "K-013",
-    "nama": "Es Teh",
-    "harga": 5000,
+    "nama": "juice banana",
+    "harga": 12000,
     "is_ready": true,
-    "gambar": "es-teh.jpg",
+    "gambar": "juice-banana.png",
     "category": {
       "id": 2,
       "nama": "Minuman"
@@ -158,10 +158,70 @@
   {
     "id": 14,
     "kode": "K-014",
-    "nama": "Teh Hangat",
-    "harga": 3000,
+    "nama": "juice berries",
+    "harga": 19000,
     "is_ready": true,
-    "gambar": "teh-hangat.jpg",
+    "gambar": "juice-berries.png",
+    "category": {
+      "id": 2,
+      "nama": "Minuman"
+    }
+  },
+  {
+    "id": 15,
+    "kode": "K-015",
+    "nama": "juice lemon",
+    "harga": 16000,
+    "is_ready": true,
+    "gambar": "juice-lemon.png",
+    "category": {
+      "id": 2,
+      "nama": "Minuman"
+    }
+  },
+  {
+    "id": 16,
+    "kode": "K-016",
+    "nama": "juice manggo",
+    "harga": 18500,
+    "is_ready": true,
+    "gambar": "juice-manggo.png",
+    "category": {
+      "id": 2,
+      "nama": "Minuman"
+    }
+  },
+  {
+    "id": 17,
+    "kode": "K-017",
+    "nama": "juice orange",
+    "harga": 18000,
+    "is_ready": true,
+    "gambar": "juice-orange.png",
+    "category": {
+      "id": 2,
+      "nama": "Minuman"
+    }
+  },
+  {
+    "id": 18,
+    "kode": "K-018",
+    "nama": "juice watermelon",
+    "harga": 20000,
+    "is_ready": true,
+    "gambar": "juice-watermelon.png",
+    "category": {
+      "id": 2,
+      "nama": "Minuman"
+    }
+  },
+  {
+    "id": 19,
+    "kode": "K-019",
+    "nama": "juice strawberry",
+    "harga": 22000,
+    "is_ready": true,
+    "gambar": "juice-strawberry.png",
     "category": {
       "id": 2,
       "nama": "Minuman"
