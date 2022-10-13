@@ -1,20 +1,18 @@
-{
-    "categories": [
-        {
-            "id": 1,
-            "nama": "Semua"
-        },
-        {
-            "id": 2,
-            "nama": "Coffe"
-        },
-        {
-            "id": 3,
-            "nama": "Juice"
-        },
-        {
-            "id": 4,
-            "nama": "Cemilan"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "nama": "Semua"
+    },
+    {
+        "id": 2,
+        "nama": "Coffe"
+    },
+    {
+        "id": 3,
+        "nama": "Juice"
+    },
+    {
+        "id": 4,
+        "nama": "Cemilan"
+    }
+]

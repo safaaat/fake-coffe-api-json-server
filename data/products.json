@@ -56,7 +56,7 @@
     "gambar": "coffe-espresso.png",
     "category": {
       "id": 1,
-      "nama": "Makanan"
+      "nama": "Coffe"
     }
   },
   {
@@ -152,7 +152,7 @@
     "gambar": "juice-banana.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Juice"
     }
   },
   {
@@ -164,7 +164,7 @@
     "gambar": "juice-berries.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Juice"
     }
   },
   {
@@ -176,7 +176,7 @@
     "gambar": "juice-lemon.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Juice"
     }
   },
   {
@@ -188,7 +188,7 @@
     "gambar": "juice-manggo.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Juice"
     }
   },
   {
@@ -200,7 +200,7 @@
     "gambar": "juice-orange.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Juice"
     }
   },
   {
@@ -212,7 +212,7 @@
     "gambar": "juice-watermelon.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Juice"
     }
   },
   {
@@ -224,7 +224,7 @@
     "gambar": "juice-strawberry.png",
     "category": {
       "id": 2,
-      "nama": "Minuman"
+      "nama": "Juice"
     }
   }
 ]
