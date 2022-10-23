@@ -14,5 +14,9 @@
     {
         "id": 4,
         "nama": "Cemilan"
+    },
+    {
+        "id": 5,
+        "nama": "Makanan"
     }
 ]
