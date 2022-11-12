@@ -3,11 +3,13 @@ const pesanans = require("./data/pesanans");
 const keranjangs = require("./data/keranjangs");
 const categories = require("./data/categories");
 const pelanggan = require("./data/pelanggan.json");
+const alamat = require("./data/alamat.json");
 
 module.exports = {
   products,
   pesanans,
   keranjangs,
   categories,
-  pelanggan
+  pelanggan,
+  alamat
 }
