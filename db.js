@@ -4,6 +4,9 @@ const keranjangs = require("./data/keranjangs");
 const categories = require("./data/categories");
 const pelanggan = require("./data/pelanggan.json");
 const alamat = require("./data/alamat.json");
+const confirmasi = require("./data/confirmasi.json");
+const completed = require("./data/completed.json");
+const batal = require("./data/batal.json");
 
 module.exports = {
   products,
@@ -11,5 +14,8 @@ module.exports = {
   keranjangs,
   categories,
   pelanggan,
-  alamat
+  alamat,
+  confirmasi,
+  completed,
+  batal
 }
